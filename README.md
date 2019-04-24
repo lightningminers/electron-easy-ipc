@@ -1,11 +1,13 @@
 # electron-easy-ipc
 
+![img](https://img.shields.io/github/license/icepy/electron-easy-ipc.svg) ![img](https://img.shields.io/npm/v/electron-easy-ipc.svg)
+
 简单易用的 electron ipc 通信实现。
 
 ## Install
 
 ```bash
-$ yarn add @icepy/electron-easy-ipc
+$ yarn add electron-easy-ipc
 ```
 
 ## Usage

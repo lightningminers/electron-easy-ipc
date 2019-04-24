@@ -1,5 +1,5 @@
 {
-  "name": "@icepy/electron-easy-ipc",
+  "name": "electron-easy-ipc",
   "version": "1.0.0",
   "description": "",
   "main": "./lib/index.js",
