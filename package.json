@@ -1,0 +1,26 @@
+{
+  "name": "@icepy/electron-easy-ipc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icepy/electron-easy-ipc.git"
+  },
+  "keywords": [],
+  "author": "icepy",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/icepy/electron-easy-ipc/issues"
+  },
+  "homepage": "https://github.com/icepy/electron-easy-ipc#readme",
+  "dependencies": {
+    "@types/electron": "^1.6.10",
+    "@types/node": "^11.13.6",
+    "usedjs": "^1.0.3"
+  }
+}
